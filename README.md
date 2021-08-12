@@ -1,3 +1,6 @@
+
+This angular Demo application develops in VSCode  and it uses  CRUD WEB API operation to retrieve ,add and delete data  in  MSSQL database .
+
 # Angular10Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
